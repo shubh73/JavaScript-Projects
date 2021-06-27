@@ -1,6 +1,6 @@
-# 🔰 10 JavaScript Projects
+# 10 JavaScript Projects
 
-This repository consists of 10 Beginner JavaScript Projects made using HTML, CSS, JavaScript.
+🔰 This repository consists of 10 Beginner JavaScript Projects made using HTML, CSS, JavaScript.
 
 1. Countdown Timer
 
